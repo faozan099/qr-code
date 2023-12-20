@@ -24,6 +24,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+README-template.md
+style-guide.md
 node_modules
 dist
 dist-ssr
