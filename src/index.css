@@ -1,15 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
-
-:root {
-  --Mobile: 375px;
-  --Dekstop: 1440px;
-  --White: hsl(0, 0%, 100%);
-  --Light-Gray: hsl(212, 45%, 89%);
-  --Grayish-Blue: hsl(220, 15%, 55%);
-  --Dark-Blue: hsl(218, 44%, 22%);
-  --Font-Size: 15px;
-  --Outfit: 'Outfit', sans-serif;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 * {
   padding: 0;
@@ -18,4 +10,5 @@
 
 body {
   box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
 }
