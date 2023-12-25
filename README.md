@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: https://comming-soon-page-v2.netlify.app/
+- Live Site URL: https://ornate-nasturtium-e7786f.netlify.app/
 
 ## My process
 
